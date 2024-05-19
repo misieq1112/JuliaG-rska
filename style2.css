@@ -18,7 +18,7 @@ body {
     text-align: center;
     margin-bottom: 20px;
     font-size: 2.5em;
-    color: #4CAF50;
+    color: #05024a;
 }
 
 /* Navigation */
@@ -38,7 +38,7 @@ nav a {
 }
 
 nav a.menu-active {
-    background-color: #4CAF50;
+    background-color: #05024a;
     color: white;
 }
 
